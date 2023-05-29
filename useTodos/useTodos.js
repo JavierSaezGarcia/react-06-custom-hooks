@@ -1,6 +1,6 @@
 import { useEffect } from 'react';
 import { useReducer } from "react";
-import { todoReducer } from '../08-useReducer/todoReducer';
+import { todoReducer } from './todoReducer';
 
 // inicializamos el estado de nuestro estado de la aplicacion, en este caso esta vacía
 const initialState = [];
