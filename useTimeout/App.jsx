@@ -12,5 +12,6 @@ export const TimeoutComponent = () => {
       <button onClick={clear}>Clear Timeout</button>
       <button onClick={reset}>Reset Timeout</button>
     </div>
+    
   )
 }
